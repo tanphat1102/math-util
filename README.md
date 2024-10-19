@@ -1,3 +1,5 @@
+[![Math Utility Project (CI included) | © 2024 by tanphat1102](https://github.com/tanphat1102/math-util/actions/workflows/ci-script-with-junit.yml/badge.svg)](https://github.com/tanphat1102/math-util/actions/workflows/ci-script-with-junit.yml)
+
 # Math Ultility (Maven)
 ## Welcome to Math Ultility 
 ## You will file in this repo:
